@@ -93,7 +93,7 @@ function PlayIntro()
         ClipsDescendants = true;
         Position = UDim2.new(0.49975723, 0, 0.499271512, 0);
         Size = UDim2.new(0, 0, 0, 0);
-        Image = "rbxassetid://11978213094";
+        Image = "rbxassetid://3570695787";
         ImageColor3 = Color3.fromRGB(26, 26, 26);
         ScaleType = Enum.ScaleType.Slice;
         SliceCenter = Rect.new(100, 100, 100, 100);
@@ -109,7 +109,7 @@ function PlayIntro()
         Position = UDim2.new(0.5, 0, 0.5, 0);
         Size = UDim2.new(0, 100, 0, 100);
         Visible = true;
-        Image = "rbxassetid://4977481293";
+        Image = "rbxassetid://11978213094";
         ZIndex = 5;
         ImageTransparency = 1;
     });
