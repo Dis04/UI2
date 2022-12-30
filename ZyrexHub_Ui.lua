@@ -109,7 +109,7 @@ function PlayIntro()
         Position = UDim2.new(0.5, 0, 0.5, 0);
         Size = UDim2.new(0, 100, 0, 100);
         Visible = true;
-        Image = "rbxassetid://11978213094";
+        Image = "rbxassetid://11978213046";
         ZIndex = 5;
         ImageTransparency = 1;
     });
