@@ -105,7 +105,7 @@ function PlayIntro()
         Parent = Circle;
         AnchorPoint = Vector2.new(0.5, 0.5);
         BackgroundColor3 = Color3.fromRGB(255, 255, 255);
-        BackgroundTransparency = 1.000;
+        BackgroundTransparency = 2.000;
         Position = UDim2.new(0.5, 0, 0.5, 0);
         Size = UDim2.new(0, 100, 0, 100);
         Visible = true;
